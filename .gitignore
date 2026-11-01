@@ -1,0 +1,10 @@
+# Donn?es
+PS2.txt
+FS1.txt
+profile.txt
+*.pdf
+
+# Python / Jupyter
+.venv/
+__pycache__/
+.ipynb_checkpoints/
